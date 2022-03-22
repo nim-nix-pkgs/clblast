@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-clblast-master.flake = false;
+  inputs.src-clblast-master.ref   = "refs/heads/master";
   inputs.src-clblast-master.owner = "numforge";
-  inputs.src-clblast-master.ref   = "master";
   inputs.src-clblast-master.repo  = "nim-clblast";
   inputs.src-clblast-master.type  = "github";
   
