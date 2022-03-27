@@ -11,6 +11,7 @@
   inputs.src-clblast-master.ref   = "refs/heads/master";
   inputs.src-clblast-master.owner = "numforge";
   inputs.src-clblast-master.repo  = "nim-clblast";
+  inputs.src-clblast-master.dir   = "";
   inputs.src-clblast-master.type  = "github";
   
   inputs."opencl".owner = "nim-nix-pkgs";
