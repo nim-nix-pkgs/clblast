@@ -13,11 +13,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652392169,
-        "narHash": "sha256-z7rPLVD0t/k81Osst8HT3mlY11P0CdQq+0imC5Jk7fc=",
+        "lastModified": 1652792872,
+        "narHash": "sha256-wtWKif3vcmAVJV8H2A1gYSAqtCDBHVZh9zmSI4QY5tU=",
         "owner": "nim-nix-pkgs",
         "repo": "clblast",
-        "rev": "78b52d02f10cd76f83c9eab55a3b5936fa37f400",
+        "rev": "2b8efa73b6b641e58391d9f2b2cf8563280eb1a0",
         "type": "github"
       },
       "original": {
@@ -74,11 +74,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652391391,
-        "narHash": "sha256-s1RBspKCanl/oJgxZYFPchLjviyAK3BHOIWICqXSFl8=",
+        "lastModified": 1652791803,
+        "narHash": "sha256-prNcq03nB7VNVvWrZGrc9QrQL2oHfI/hIZHyg7kMnHA=",
         "owner": "nim-nix-pkgs",
         "repo": "opencl",
-        "rev": "3b6161de40b7bc08894e74b6f00e70d45b0ef7fa",
+        "rev": "6f7949b5c0439b7bbccffb156a331bb42b0f378f",
         "type": "github"
       },
       "original": {
